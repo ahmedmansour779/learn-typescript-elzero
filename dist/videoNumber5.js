@@ -11,4 +11,4 @@ function add(n1, n2) {
 }
 console.log(add(10, 20));
 console.log(typeof add(10, 20));
-//# sourceMappingURL=videoNumber3.js.map
+//# sourceMappingURL=videoNumber5.js.map
